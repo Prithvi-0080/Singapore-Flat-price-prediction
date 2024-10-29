@@ -1,7 +1,8 @@
 # Singapore-Flat-price-prediction
-Problem Statement:
+Overview
 
+This project is a Singapore Resale Flat Price Prediction application developed using Streamlit. It leverages machine learning models (Decision Tree Regressor, Random Forest Regressor, and Linear Regression) to predict the resale price of flats based on various input features such as month, town, flat type, block, street name, storey range, floor area, flat model, lease commence date, and year.
 
-The objective of this project is to develop a machine learning model that predicts the resale prices of flats in Singapore. This predictive model will be based on historical data of resale flat transactions, and it aims to assist both potential buyers and sellers in estimating the resale value of a flat.
+Features
 
-
+Predictive Models: The application uses machine learning models (Decision Tree Regressor, Random Forest Regressor, and Linear Regression) to provide resale price predictions.
